@@ -1,0 +1,11 @@
+Further we can extends this idea and use it to translate the voice of the video to the indian languages.
+We are going to use text-to-speech converters to implement the above functinality in our application.
+The application is capable of converting the subtitles to 91 languages including most of the indian languages.
+Hence, we will be able to provide the entire of india these important educational videos in their preffered languages.
+Most of the common folk is not fluent in english so this application is of outmost importance.
+Morover the application is efficient in the language conversions because it use google's trusted translate api .
+The application has an easy to use gui interferce that enables even non computer proffesinals to use it easily.
+The application gives you the facility to convert to and from the list of these wide range of languages.
+Our next step is to provides you with the complete conversion into your language including the subtitle and voice conversion.
+
+
